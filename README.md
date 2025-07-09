@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="" alt="">
+	<img src="" alt="" height="128">
 </p>
 
 ## À propos de
