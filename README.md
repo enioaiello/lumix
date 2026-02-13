@@ -1,8 +1,6 @@
-<p align="center">
-	<img src="" alt="" height="128">
-</p>
+# [nom]
 
-## À propos de
+## À propos de [nom]
 
 
 ## Fonctionnalités
@@ -18,10 +16,15 @@ git clone https://github.com/enioaiello/[nom].git
 
 ## Contribution
 
+Veuillez consulter le [guide de contribution](https://github.com/enioaiello/enioaiello/blob/main/CONTRIBUTING.md) pour apprendre à contribuer.
 
 ## Soutiens
 
 Si vous aimez ce projet, considérez à faire un don sur ma page [GitHub Sponsors](https://github.com/sponsors/enioaiello).
+
+## Plus de projets
+
+Plus de projets sont disponibles sur [mon GitHub](https://github.com/enioaiello) ou sur [mon portfolio](https://enioaiello.fr).
 
 ## Licence
 
