@@ -1,31 +1,57 @@
-# [nom]
+# {{PROJECT_NAME}}
 
-## À propos de [nom]
+{{One-line tagline describing the project}}
 
+## About
 
-## Fonctionnalités
+{{Paragraph describing what the project does, why it exists, and who it's for.}}
 
+## Features
+
+### {{Feature 1 Title}}
+{{Short paragraph describing the feature and its benefit.}}
+
+### {{Feature 2 Title}}
+{{Short paragraph describing the feature and its benefit.}}
+
+### {{Feature 3 Title}}
+{{Short paragraph describing the feature and its benefit.}}
 
 ## Installation
 
-### Clonez le dépôt
+### Using a pre-built release
+1. Download the latest release from the [Releases](../../releases) page.
+2. {{Extraction / run instructions}}
 
-````bash
-git clone https://github.com/enioaiello/[nom].git
-````
+### Building from source
+```bash
+git clone https://github.com/enioaiello/{{REPO_NAME}}.git
+cd {{REPO_NAME}}
+{{build commands, e.g. make / npm install / cargo build --release}}
+```
 
-## Contribution
+## Usage
 
-Veuillez consulter le [guide de contribution](https://github.com/enioaiello/enioaiello/blob/main/CONTRIBUTING.md) pour apprendre à contribuer.
+{{Basic usage example, commands, or code snippet}}
 
-## Soutiens
+```bash
+{{example command}}
+```
 
-Si vous aimez ce projet, considérez à faire un don sur ma page [GitHub Sponsors](https://github.com/sponsors/enioaiello).
+## Contributing
 
-## Plus de projets
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
 
-Plus de projets sont disponibles sur [mon GitHub](https://github.com/enioaiello) ou sur [mon portfolio](https://enioaiello.fr).
+## Support the Project
 
-## Licence
+If you find this project useful, consider supporting its development. See [SPONSORS.md](SPONSORS.md) for details.
 
-Ce projet est distribué sous la licence MIT. Pour consulter cette licence, veuillez consulter le fichier [LICENSE](license).
+## More Projects
+
+Check out my other projects on [GitHub](https://github.com/enioaiello).
+
+Archived / inactive projects are kept for reference on [enioaiello-archives](https://github.com/enioaiello-archives).
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
