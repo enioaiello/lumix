@@ -38,6 +38,15 @@ cd {{REPO_NAME}}
 {{example command}}
 ```
 
+## Artificial Intelligence
+
+This repository allows the use of LLMs for writing, reading, and maintaining code.
+
+You can use instructions for your LLMs by checking out the project root.
+
+> [!NOTE]
+> The following permission is not mandatory. Therefore, some or all of the code may be written by an LLM, an agent, or a human.
+
 ## Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
